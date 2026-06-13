@@ -1,37 +1,14 @@
 ---
 title: Teaching & Mentoring
-date: 2026-06-13
 ---
 
-## Teaching
-
-**Mathematics for AI**  
-Institut Supérieur d'Électronique de Paris (ISEP), 2021–2024.
-
-**AI and Optimization**  
-Institut Supérieur d'Électronique de Paris (ISEP), 2022–2023.
-
-**Information System Architecture**  
-Institut Supérieur d'Électronique de Paris (ISEP), 2019–2021.
-
-## Student Mentoring
-
-**Zuzanna Skoczylas** — Harvard & Tsinghua, 2024  
-*Dynamic and Intelligent Methane Emissions Inventory: China oil and gas industry case study.*
-
-**Sina Mohammadi** — Stanford University, 2023  
-*Oil and gas site supervised detection and recognition with satellite imagery.*
-
-**Jhonathan Yismaw Ewunetie** — Stanford University, 2022  
-*Optimized BERT for automatic text classification by Sustainable Development Goals.*
-
-**Rohit Anand Gupta** — Rennes School of Business, 2020  
-*Optimization and automation of multi-layered ensemble learning for short-term forecasting in agro-climatology.*
-
-**Liu Xiaoyang** — ISEP, 2020  
-*Deep Learning / NLP solution deployment.*
-
-## Engineering Cycle Project Supervision
-
-**Carmen Sofia Lopez Jaques, My-Linh Le Thien, Hugo Chemillier, Nils Charvet** — ISEP, 2022  
-*Classification of multilabel texts related to Sustainable Development Goals.*
+<section class="jade-section">
+  <div class="jade-wrap">
+    <div class="jade-mini">Teaching & Mentoring</div>
+    <h1 class="jade-section-title">Training students at the intersection of AI, mathematics and environmental systems.</h1>
+    <div class="jade-grid two">
+      <div class="jade-card"><h3>Teaching</h3><p><b>Mathematics for AI</b><br/>Institut Supérieur d'Électronique de Paris</p><p><b>AI and Optimization</b><br/>Institut Supérieur d'Électronique de Paris</p><p><b>Information System Architecture</b><br/>Institut Supérieur d'Électronique de Paris</p></div>
+      <div class="jade-card"><h3>Student Mentoring</h3><p>Zuzanna Skoczylas — Harvard & Tsinghua<br/>Sina Mohammadi — Stanford University<br/>Jhonathan Yismaw Ewunetie — Stanford University<br/>Rohit Anand Gupta — Rennes School of Business<br/>Liu Xiaoyang — ISEP</p></div>
+    </div>
+  </div>
+</section>

@@ -1,32 +1,16 @@
 ---
-title: Talks & Presentations
-date: 2026-06-13
+title: Talks
 ---
 
-## Invited Talks
-
-**Applying Machine Learning to Operational Meteorology**  
-Invited Speaker, Royal Meteorological Society (RMetS), London, United Kingdom, March 2024.
-
-## Selected Conference & Workshop Presentations
-
-**Artificial Intelligence for Dynamic and Intelligent Methane Inventory**  
-European Geosciences Union (EGU), 2024.
-
-**Artificial Intelligence for Methane Mitigation: Automated Determination of Oil and Gas Methane Emission Profiles**  
-NeurIPS Workshop, 2023.
-
-**Comprehensive Synthesis of TROPOMI-Based Methane Emissions from the Permian Basin Estimated with State-of-the-Art Methodologies**  
-American Geophysical Union Annual Meeting (AGU), 2023.
-
-**Comprehensive Synthesis of TROPOMI-Based Methane Emissions from the Permian Basin Estimated with State-of-the-Art Methodologies**  
-International Workshop on Greenhouse Gas Measurements from Space (IWGGMS), 2023.
-
-**O&GProfile: Automated Attribution of GHGSat Point-Source Methane Emission Detections to Oil and Gas Infrastructure for Site-Level Emission Profiling**  
-European Geosciences Union (EGU), 2023.
-
-**Optimization and Automation of Multi-Layered Ensemble Learning for Short-Term Forecasting in Agro-Climatology**  
-TECHENV / EGC, 2020.
-
-**Automatic Classification of Multi-Label Texts Related to Sustainable Development Goals**  
-TECHENV / EGC, 2020.
+<section class="jade-section">
+  <div class="jade-wrap">
+    <div class="jade-mini">Talks & Presentations</div>
+    <h1 class="jade-section-title">Selected invited talks and scientific presentations.</h1>
+    <div class="jade-list">
+      <div class="jade-item"><b>Applying Machine Learning to Operational Meteorology</b><span>Invited speaker, Royal Meteorological Society, London, United Kingdom.</span></div>
+      <div class="jade-item"><b>Artificial Intelligence for Dynamic and Intelligent Methane Inventory</b><span>Scientific presentation on AI-driven methane inventory systems and climate mitigation intelligence.</span></div>
+      <div class="jade-item"><b>Artificial Intelligence for Methane Mitigation</b><span>Workshop presentation on automated oil and gas methane emissions profiling.</span></div>
+      <div class="jade-item"><b>Comprehensive Synthesis of TROPOMI-Based Methane Emissions from the Permian Basin</b><span>Collaborative scientific contribution on satellite-based methane emissions estimates.</span></div>
+    </div>
+  </div>
+</section>

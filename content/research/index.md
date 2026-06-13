@@ -1,39 +1,28 @@
 ---
 title: Research
-date: 2026-06-13
 ---
 
-My research develops artificial intelligence systems for climate governance, Earth observation and sustainability intelligence. I focus on methods that connect advanced AI and mathematical modeling with operational environmental monitoring and policy-relevant decision support.
-
-## AI for Climate Governance
-
-I design AI-assisted systems to support climate policy design, scenario assessment, greenhouse gas mitigation planning and sustainability governance.
-
-Current topics include:
-
-- climate scenario vetting and pathway assessment;
-- AI-assisted policy intelligence;
-- transition burden analysis;
-- sustainability governance and decision-support systems.
-
-## Earth Observation & Remote Sensing
-
-I apply computer vision, machine learning and geospatial analytics to satellite imagery for environmental monitoring and industrial infrastructure analysis.
-
-Current topics include:
-
-- methane emissions monitoring;
-- oil and gas infrastructure mapping;
-- industrial activity intelligence;
-- open-vocabulary Earth observation.
-
-## Environmental Intelligence Systems
-
-I develop integrated systems combining AI, mathematical modeling, remote sensing and sustainability indicators to help translate environmental data into actionable decision support.
-
-Current topics include:
-
-- sustainability intelligence;
-- Sustainable Development Goals monitoring;
-- environmental indicators;
-- AI-assisted monitoring frameworks.
+<section class="jade-section">
+  <div class="jade-wrap">
+    <div class="jade-mini">Research Agenda</div>
+    <h1 class="jade-section-title">AI systems for climate governance and environmental intelligence.</h1>
+    <p class="jade-section-lead">My research develops artificial intelligence systems that transform satellite observations, climate pathways and sustainability data into actionable intelligence for climate policy and environmental decision-making.</p>
+    <div class="jade-grid">
+      <div class="jade-card">
+        <h3>AI for Climate Governance</h3>
+        <p>Designing AI-assisted systems for climate pathway assessment, policy review, emissions mitigation planning and sustainability governance.</p>
+        <ul><li>Climate scenario vetting</li><li>Policy intelligence</li><li>Review-load indicators</li><li>Transition-burden analysis</li></ul>
+      </div>
+      <div class="jade-card">
+        <h3>Earth Observation & Remote Sensing</h3>
+        <p>Applying computer vision and geospatial AI to satellite imagery for monitoring industrial activity, methane emissions and infrastructure systems.</p>
+        <ul><li>Satellite infrastructure mapping</li><li>Methane intelligence</li><li>Object detection</li><li>Open-vocabulary Earth observation</li></ul>
+      </div>
+      <div class="jade-card">
+        <h3>Sustainability Intelligence Systems</h3>
+        <p>Building decision-support systems that connect machine learning, mathematical modeling and policy indicators for sustainable development.</p>
+        <ul><li>SDG monitoring</li><li>Environmental indicators</li><li>Automated evidence synthesis</li><li>Operational policy analytics</li></ul>
+      </div>
+    </div>
+  </div>
+</section>

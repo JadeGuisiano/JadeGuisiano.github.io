@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Jade Eva Guisiano"
+    name: "Jade E. Guisiano"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: "Jade Eva Guisiano"
     # Schema.org type for structured data
@@ -88,7 +88,7 @@ hugoblox:
     align: center # left | center | right
     # Feature toggles
     search: false
-    theme_toggle: true
+    theme_toggle: false
     theme_picker: false
     language_switcher: false
     # Call-to-action button
@@ -114,7 +114,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
+    notice: ""
     license:
       type: cc # cc | custom
       allow_derivatives: false
