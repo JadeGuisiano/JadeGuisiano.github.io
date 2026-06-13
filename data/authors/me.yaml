@@ -2,115 +2,111 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  display: Jade Eva Guisiano
+  given: Jade Eva
+  family: Guisiano
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
 postnominals:
   - PhD
-  - MIEEE
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🌍"
+role: Postdoctoral Researcher | AI for Climate Governance, Earth Observation and Sustainability Intelligence
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Jade Eva Guisiano is a postdoctoral researcher at Tsinghua University working at the intersection of artificial intelligence, remote sensing, mathematical modeling and climate policy. Her research develops environmental intelligence systems for greenhouse gas mitigation, climate scenario assessment and sustainability governance.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Tsinghua University, Institute of Energy, Environment and Economy
+    url: https://www.tsinghua.edu.cn/en/
+  - name: United Nations Environment Programme, Climate & Energy Branch
+    url: https://www.unep.org/
+  - name: Climate Change AI
+    url: https://www.climatechange.ai/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
+    url: mailto:jadeva_g75@mail.tsinghua.edu.cn
+    label: Email
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/jade-eva-guisiano-ph-d-047054211/
+    label: LinkedIn
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=UmM76BsAAAAJ&hl=fr
+    label: Google Scholar
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - AI for Climate Governance
+  - Earth Observation and Remote Sensing
+  - Methane Emissions Intelligence
+  - Climate Scenario Assessment
+  - Sustainability Intelligence Systems
+  - Computer Vision for Environmental Monitoring
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD in Mathematics and Computer Science
+    institution: École Polytechnique / CMAP and ISEP / DaSSIP
+    start: 2019-10-01
+    end: 2024-12-31
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Doctoral research on AI, deep learning and satellite remote sensing for the development of a Dynamic and Intelligent Methane Emissions Inventory for the oil and gas industry. Supervisors: Éric Moulines, Jérémie Sublime and Thomas Lauvaux.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Postdoctoral Researcher
+    org: Tsinghua University, Institute of Energy, Environment and Economy
+    start: 2025-01-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Developing AI-assisted systems for climate governance, greenhouse gas mitigation, climate scenario assessment and sustainability decision-making.
+  - role: Consultant Researcher
+    org: United Nations Environment Programme, Climate & Energy Branch
+    start: 2021-01-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Contributed to methane intelligence and sustainability AI initiatives, including work related to IMEO, OGMP and SDG-Meter.
+  - role: Core Team Member
+    org: Climate Change AI
+    start: 2023-01-01
+    summary: |
+      Supporting global efforts at the intersection of climate change and machine learning.
 
 skills:
-  - name: Technical Skills
+  - name: Research Areas
     items:
-      - label: Python
+      - label: Climate AI
         level: 5
+      - label: Remote Sensing
+        level: 5
+      - label: Computer Vision
+        level: 5
+      - label: Climate Policy Intelligence
+        level: 5
+  - name: Methods
+    items:
       - label: Machine Learning
         level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
+      - label: Deep Learning
         level: 5
-      - label: Conference Presentations
+      - label: Mathematical Modeling
         level: 4
-      - label: Grant Proposals
+      - label: Geospatial Analytics
         level: 4
 
 languages:
-  - name: English
+  - name: French
     level: 5
     label: Native
-  - name: Spanish
-    level: 4
+  - name: English
+    level: 5
     label: Fluent
+  - name: Chinese
+    level: 2
+    label: Working proficiency
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+  - title: Shuimu Tsinghua Scholarship
+    awarder: Tsinghua University
+    date: "2025-01-01"
+    summary: Prestigious postdoctoral fellowship supporting research at Tsinghua University.
+  - title: IRCAI-UNESCO Top 100 AI Solutions for Sustainable Development
+    awarder: IRCAI / UNESCO
+    date: "2022-01-01"
+    summary: SDG-Meter was recognized among the Top 100 AI solutions for sustainable development.
