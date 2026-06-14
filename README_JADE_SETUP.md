@@ -1,18 +1,42 @@
-# Jade Guisiano academic website package
+# Jade Hugo Website — corrected version
 
-This package replaces the old Hugo Blox template with a sober, modern, diplomatic/CEO-style personal academic website.
+This repository has been cleaned and customized for Jade Eva Guisiano.
 
-## What changed
+## Main changes
 
-- Homepage redesigned as the main About page.
-- CV removed from the menu and from the visible site.
-- Dates and update metadata hidden site-wide.
-- Search removed from the navigation.
-- Photo fixed and included at `/static/images/jade-guisiano.jpg`.
-- Modern custom styling added in `layouts/_partials/hooks/head-end/jade-custom.html`.
-- Pages restructured: Home, Research, Publications, Projects, Talks, Teaching & Mentoring, Contact.
+- Homepage is now the About page.
+- Removed CV menu entry.
+- Removed example Blog, Courses, Events and placeholder Projects.
+- Added clean navigation: Home, Research, Publications, Projects, Talks, Teaching & Mentoring, Contact.
+- Added professional positioning: AI for Climate Governance, Earth Observation and Sustainability Intelligence.
+- Added publications, projects, talks, teaching and mentoring sections.
+- Updated author profile and links.
+- Added profile photo at `assets/media/authors/me/avatar.jpg`.
 
-## How to apply
+## How to use
 
-Copy all files into your existing `JadeGuisiano.github.io` repository, keeping the existing `.git` folder.
-Then commit and push with GitHub Desktop.
+Replace the content of your local repository with this corrected folder, then run:
+
+```bash
+npm run dev
+```
+
+Open:
+
+```text
+http://localhost:1313/
+```
+
+If Hugo tries to download modules and fails, activate a VPN and run again.
+
+## Files to edit later
+
+- Homepage: `content/_index.md`
+- Research: `content/research/index.md`
+- Publications: `content/publications/`
+- Projects: `content/projects/`
+- Talks: `content/talks/index.md`
+- Teaching: `content/teaching/index.md`
+- Contact: `content/contact/index.md`
+- Main profile: `data/authors/me.yaml`
+- Menu: `config/_default/menus.yaml`

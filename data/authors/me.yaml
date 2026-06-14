@@ -5,17 +5,13 @@ name:
   display: Jade Eva Guisiano
   given: Jade Eva
   family: Guisiano
-  alternate: ''
-  pronunciation: ''
-  pronouns: ''
 postnominals:
   - PhD
 status:
-  icon: "🌍"
-role: Postdoctoral Researcher | AI for Climate Governance, Earth Observation and Sustainability Intelligence
+  icon: ""
+role: Postdoctoral Researcher | AI for Climate Governance, Earth Observation & Sustainability Intelligence
 bio: |
-  Jade Eva Guisiano is a postdoctoral researcher at Tsinghua University working at the intersection of artificial intelligence, remote sensing, mathematical modeling and climate policy. Her research develops environmental intelligence systems for greenhouse gas mitigation, climate scenario assessment and sustainability governance.
-
+  Jade Eva Guisiano is a postdoctoral researcher at Tsinghua University working at the intersection of artificial intelligence, Earth observation, mathematical modeling and climate policy.
 affiliations:
   - name: Tsinghua University, Institute of Energy, Environment and Economy
     url: https://www.tsinghua.edu.cn/en/
@@ -23,7 +19,6 @@ affiliations:
     url: https://www.unep.org/
   - name: Climate Change AI
     url: https://www.climatechange.ai/
-
 links:
   - icon: at-symbol
     url: mailto:jadeva_g75@mail.tsinghua.edu.cn
@@ -34,7 +29,6 @@ links:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=UmM76BsAAAAJ&hl=fr
     label: Google Scholar
-
 interests:
   - AI for Climate Governance
   - Earth Observation and Remote Sensing
@@ -42,71 +36,3 @@ interests:
   - Climate Scenario Assessment
   - Sustainability Intelligence Systems
   - Computer Vision for Environmental Monitoring
-
-education:
-  - degree: PhD in Mathematics and Computer Science
-    institution: École Polytechnique / CMAP and ISEP / DaSSIP
-    start: 2019-10-01
-    end: 2024-12-31
-    summary: |
-      Doctoral research on AI, deep learning and satellite remote sensing for the development of a Dynamic and Intelligent Methane Emissions Inventory for the oil and gas industry. Supervisors: Éric Moulines, Jérémie Sublime and Thomas Lauvaux.
-
-experience:
-  - role: Postdoctoral Researcher
-    org: Tsinghua University, Institute of Energy, Environment and Economy
-    start: 2025-01-01
-    summary: |
-      Developing AI-assisted systems for climate governance, greenhouse gas mitigation, climate scenario assessment and sustainability decision-making.
-  - role: Consultant Researcher
-    org: United Nations Environment Programme, Climate & Energy Branch
-    start: 2021-01-01
-    summary: |
-      Contributed to methane intelligence and sustainability AI initiatives, including work related to IMEO, OGMP and SDG-Meter.
-  - role: Core Team Member
-    org: Climate Change AI
-    start: 2023-01-01
-    summary: |
-      Supporting global efforts at the intersection of climate change and machine learning.
-
-skills:
-  - name: Research Areas
-    items:
-      - label: Climate AI
-        level: 5
-      - label: Remote Sensing
-        level: 5
-      - label: Computer Vision
-        level: 5
-      - label: Climate Policy Intelligence
-        level: 5
-  - name: Methods
-    items:
-      - label: Machine Learning
-        level: 5
-      - label: Deep Learning
-        level: 5
-      - label: Mathematical Modeling
-        level: 4
-      - label: Geospatial Analytics
-        level: 4
-
-languages:
-  - name: French
-    level: 5
-    label: Native
-  - name: English
-    level: 5
-    label: Fluent
-  - name: Chinese
-    level: 2
-    label: Working proficiency
-
-awards:
-  - title: Shuimu Tsinghua Scholarship
-    awarder: Tsinghua University
-    date: "2025-01-01"
-    summary: Prestigious postdoctoral fellowship supporting research at Tsinghua University.
-  - title: IRCAI-UNESCO Top 100 AI Solutions for Sustainable Development
-    awarder: IRCAI / UNESCO
-    date: "2022-01-01"
-    summary: SDG-Meter was recognized among the Top 100 AI solutions for sustainable development.
