@@ -7,83 +7,84 @@ sections:
       title: ""
       text: |
         <section class="jade-hero jade-wrap">
-          <div class="jade-portrait-card">
-            <div class="jade-portrait-frame">
-              <img class="jade-portrait" src="/images/jade-guisiano.jpg" alt="Jade Eva Guisiano portrait" />
-              <div class="jade-seal" aria-hidden="true">
-                <svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <circle cx="60" cy="60" r="48" stroke="#9f7a3f" stroke-width="1.5"/>
-                  <ellipse cx="60" cy="60" rx="48" ry="17" stroke="#9f7a3f" stroke-width="1.5"/>
-                  <ellipse cx="60" cy="60" rx="17" ry="48" stroke="#9f7a3f" stroke-width="1.5"/>
-                  <path d="M22 72C40 48 72 39 99 48" stroke="#1d1e20" stroke-width="1.4"/>
-                  <circle cx="82" cy="42" r="4" fill="#9f7a3f"/>
-                  <path d="M70 30l18-8 8 18-18 8-8-18z" stroke="#1d1e20" stroke-width="1.4"/>
-                </svg>
-              </div>
-            </div>
-          </div>
-          <div>
-            <div class="jade-kicker">Artificial Intelligence · Climate Governance · Earth Observation</div>
-            <h1 class="jade-title">Jade Eva<br/>Guisiano</h1>
-            <p class="jade-subtitle">Postdoctoral Researcher at Tsinghua University working on AI for climate governance, remote sensing and sustainability intelligence.</p>
-            <p class="jade-desc">I design environmental intelligence systems that connect machine learning, satellite observations, mathematical modeling and policy decision-making for greenhouse gas mitigation and sustainable development.</p>
+          <div class="jade-hero-copy">
+            <div class="jade-kicker">AI systems for climate science and policy</div>
+            <h1 class="jade-title">Jade Eva Guisiano</h1>
+            <p class="jade-subtitle">I build AI systems that turn climate evidence into policy intelligence.</p>
+            <p class="jade-desc">My research connects two challenges: using AI to assess complex climate scenarios transparently, and combining remote sensing with machine learning to build automated, dynamic and intelligent greenhouse gas inventories.</p>
             <div class="jade-buttons">
-              <a class="jade-btn" href="/research/">Research</a>
-              <a class="jade-btn secondary" href="https://scholar.google.com/citations?user=UmM76BsAAAAJ&hl=fr">Google Scholar</a>
-              <a class="jade-btn secondary" href="https://www.linkedin.com/in/jade-eva-guisiano-ph-d-047054211/">LinkedIn</a>
-              <a class="jade-btn secondary" href="mailto:jadeva_g75@mail.tsinghua.edu.cn">Email</a>
+              <a class="jade-btn" href="/publications/">View publications</a>
+              <a class="jade-text-link" href="mailto:jadeva_g75@mail.tsinghua.edu.cn">Get in touch <span aria-hidden="true">↗</span></a>
+              <a class="jade-text-link" href="/uploads/Jade_Guisiano_CV.pdf" download>Download CV <span aria-hidden="true">↓</span></a>
+            </div>
+          </div>
+          <figure class="jade-portrait-block">
+            <img class="jade-portrait" src="/images/jade-guisiano.jpg" alt="Portrait of Jade Eva Guisiano" />
+            <figcaption>Postdoctoral Researcher<br/>Tsinghua University</figcaption>
+          </figure>
+        </section>
+
+        <section class="jade-section jade-intro">
+          <div class="jade-wrap jade-split">
+            <div>
+              <div class="jade-mini">Profile</div>
+              <h2 class="jade-section-title">Research designed to move from evidence to action.</h2>
+            </div>
+            <div class="jade-bio">
+              <p>I am a postdoctoral researcher at the Institute of Energy, Environment and Economy at Tsinghua University, supported by the Shuimu Tsinghua Scholarship. I develop AI methods that connect satellite observations, mathematical modelling and policy analysis.</p>
+              <p>Previously, I worked as a consultant with the United Nations Environment Programme on methane and climate intelligence. I earned a PhD in Mathematics and Computer Science from École Polytechnique and ISEP.</p>
+            </div>
+          </div>
+        </section>
+
+        <section class="jade-section jade-agenda">
+          <div class="jade-wrap">
+            <div class="jade-mini">Research agenda</div>
+            <h2 class="jade-section-title">From complex evidence to decisions that can be defended.</h2>
+            <p class="jade-agenda-lead">I develop analytical systems for settings where scientific complexity, institutional accountability and real-world action meet.</p>
+            <div class="jade-focus-grid">
+              <article class="jade-focus">
+                <span>01</span>
+                <h3>Climate scenario intelligence</h3>
+                <p>AI as a transparent analytical layer for exploring underexamined pathways, vetting scenario plausibility and coherence, and synthesizing large ensembles for climate assessment processes such as the Intergovernmental Panel on Climate Change (IPCC).</p>
+              </article>
+              <article class="jade-focus">
+                <span>02</span>
+                <h3>Dynamic GHG intelligence</h3>
+                <p>Remote sensing and computer vision for identifying infrastructure, attributing emission signals and updating inventories as emitting behaviour changes over time.</p>
+              </article>
+              <article class="jade-focus">
+                <span>03</span>
+                <h3>Institutional integration</h3>
+                <p>AI designed around the evidence standards, transparency and review processes that public institutions need to use new analytical capabilities responsibly.</p>
+              </article>
             </div>
           </div>
         </section>
 
         <section class="jade-section">
-          <div class="jade-wrap">
-            <div class="jade-mini">Profile</div>
-            <h2 class="jade-section-title">Research at the interface of science, policy and intelligent systems.</h2>
-            <p class="jade-section-lead">I am a Postdoctoral Researcher at the Institute of Energy, Environment and Economy, Tsinghua University, supported by the Shuimu Tsinghua Scholarship. My work focuses on artificial intelligence systems for climate governance, greenhouse gas mitigation and sustainability decision-making.</p>
-            <p class="jade-section-lead">Prior to joining Tsinghua University, I completed a PhD in Mathematics and Computer Science at École Polytechnique and ISEP. My doctoral research developed AI-driven methane intelligence systems combining satellite observations, deep learning and policy applications for the oil and gas sector.</p>
-            <div class="jade-grid">
-              <div class="jade-card"><h3>Tsinghua University</h3><p><span class="jade-role">Postdoctoral Researcher</span><br/>Institute of Energy, Environment and Economy.</p></div>
-              <div class="jade-card"><h3>UN Environment Programme</h3><p><span class="jade-role">Consultant Researcher</span><br/>Climate & Energy Branch, with work connected to methane intelligence, IMEO, OGMP and sustainability AI.</p></div>
-              <div class="jade-card"><h3>Climate Change AI</h3><p><span class="jade-role">Core Team Member</span><br/>Contributing to a global community advancing machine learning for climate action.</p></div>
+          <div class="jade-wrap jade-split jade-experience">
+            <div>
+              <div class="jade-mini">Selected experience</div>
+              <h2 class="jade-section-title">Academic depth, institutional perspective.</h2>
+            </div>
+            <div class="jade-list">
+              <div class="jade-list-item"><span>Current</span><div><strong>Tsinghua University</strong><p>Postdoctoral Researcher, Institute of Energy, Environment and Economy</p></div></div>
+              <div class="jade-list-item"><span>Previous</span><div><strong>UN Environment Programme</strong><p>Consultant, Climate &amp; Energy Branch</p></div></div>
+              <div class="jade-list-item"><span>Doctorate</span><div><strong>École Polytechnique &amp; ISEP</strong><p>PhD in Mathematics and Computer Science</p></div></div>
             </div>
           </div>
         </section>
 
-        <section class="jade-section alt">
+        <section class="jade-section jade-closing">
           <div class="jade-wrap">
-            <div class="jade-mini">Research Focus</div>
-            <h2 class="jade-section-title">From satellite evidence to policy intelligence.</h2>
-            <div class="jade-grid">
-              <div class="jade-card"><h3>AI for Climate Governance</h3><p>AI-assisted policy intelligence, climate scenario assessment, pathway vetting and decision-support systems for emissions mitigation.</p></div>
-              <div class="jade-card"><h3>Earth Observation</h3><p>Computer vision and remote sensing for methane emissions monitoring, industrial infrastructure mapping and environmental activity analysis.</p></div>
-              <div class="jade-card"><h3>Sustainability Intelligence</h3><p>Systems integrating machine learning, mathematical modeling and policy indicators to support sustainable development and climate accountability.</p></div>
-            </div>
-          </div>
-        </section>
-
-        <section class="jade-section">
-          <div class="jade-wrap">
-            <div class="jade-mini">Selected Systems</div>
-            <h2 class="jade-section-title">Research programs with operational ambition.</h2>
-            <div class="jade-grid two">
-              <div class="jade-card"><img src="/images/project-sage-vet.jpg" alt="SAGE-Vet abstract project visual"/><h3>SAGE-Vet</h3><p>AI-assisted climate scenario vetting framework for assessing transition-burden fingerprints and review-load signals in climate pathways.</p></div>
-              <div class="jade-card"><img src="/images/project-methane.jpg" alt="Methane intelligence abstract project visual"/><h3>Dynamic Methane Inventory</h3><p>Satellite-driven methane intelligence system for characterizing emitting behavior across oil and gas assets and operators.</p></div>
-              <div class="jade-card"><img src="/images/project-sdg-meter.jpg" alt="SDG-Meter abstract project visual"/><h3>SDG-Meter</h3><p>Automated SDG classification framework recognized among the IRCAI-UNESCO Top 100 AI solutions for sustainable development.</p></div>
-              <div class="jade-card"><img src="/images/project-zeris-rs.jpg" alt="ZERIS-RS abstract project visual"/><h3>ZERIS-RS</h3><p>Open-vocabulary Earth observation framework for infrastructure discovery and monitoring using vision-language and spatial reasoning.</p></div>
-            </div>
-          </div>
-        </section>
-
-        <section class="jade-section alt">
-          <div class="jade-wrap">
-            <div class="jade-mini">Contact</div>
-            <h2 class="jade-section-title">Collaboration and research inquiries.</h2>
-            <p class="jade-section-lead">I welcome conversations with researchers, climate institutions, public-sector teams and industrial partners working on AI-enabled climate and environmental intelligence.</p>
-            <div class="jade-contact-card">
-              <a class="jade-btn" href="mailto:jadeva_g75@mail.tsinghua.edu.cn">Email</a>
-              <a class="jade-btn secondary" href="https://scholar.google.com/citations?user=UmM76BsAAAAJ&hl=fr">Google Scholar</a>
-              <a class="jade-btn secondary" href="https://www.linkedin.com/in/jade-eva-guisiano-ph-d-047054211/">LinkedIn</a>
+            <div class="jade-mini">Connect</div>
+            <h2 class="jade-section-title">For research, policy and thoughtful collaboration.</h2>
+            <div class="jade-contact-links">
+              <a href="mailto:jadeva_g75@mail.tsinghua.edu.cn">Email <span aria-hidden="true">↗</span></a>
+              <a href="https://scholar.google.com/citations?user=UmM76BsAAAAJ&hl=fr">Google Scholar <span aria-hidden="true">↗</span></a>
+              <a href="https://www.linkedin.com/in/jade-eva-guisiano-ph-d-047054211/">LinkedIn <span aria-hidden="true">↗</span></a>
+              <a href="/uploads/Jade_Guisiano_CV.pdf" download>Download CV <span aria-hidden="true">↓</span></a>
             </div>
           </div>
         </section>

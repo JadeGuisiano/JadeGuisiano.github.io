@@ -19,9 +19,9 @@ hugoblox:
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "AI for Climate Governance, Earth Observation and Sustainability Intelligence"
+    tagline: "AI systems for climate science, policy and greenhouse gas intelligence"
     # Site meta description for search engines and social sharing
-    description: "Postdoctoral researcher at Tsinghua University working on AI for climate governance, Earth observation, methane mitigation and sustainability intelligence."
+    description: "Jade Eva Guisiano develops AI systems for climate scenario assessment, public policy and dynamic greenhouse gas intelligence from Earth observation."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "" # Twitter/X handle for Twitter Cards (without @)
@@ -85,7 +85,7 @@ hugoblox:
     # Stick to top on scroll
     sticky: true
     # Menu alignment
-    align: center # left | center | right
+    align: right # left | center | right
     # Feature toggles
     search: false
     theme_toggle: false
