@@ -84,17 +84,17 @@ sections:
             </div>
             <div class="jade-recognition-list">
               <article>
-                <span>2021</span>
-                <div>
-                  <h3>IRCAI Global Top 100 AI for SDGs</h3>
-                  <p><strong>SDG-Meter</strong> ranked 9th among 100 global AI solutions advancing the United Nations Sustainable Development Goals. International Research Centre on Artificial Intelligence under the auspices of UNESCO.</p>
-                </div>
-              </article>
-              <article>
                 <span>Current</span>
                 <div>
                   <h3>Shuimu Tsinghua Scholar</h3>
                   <p>Selected for Tsinghua University's competitive postdoctoral fellowship programme supporting outstanding early-career researchers.</p>
+                </div>
+              </article>
+              <article>
+                <span>2021</span>
+                <div>
+                  <h3>IRCAI Global Top 100 AI for SDGs</h3>
+                  <p><strong>SDG-Meter</strong> ranked 9th among 100 global AI solutions advancing the United Nations Sustainable Development Goals. International Research Centre on Artificial Intelligence under the auspices of UNESCO.</p>
                 </div>
               </article>
             </div>
