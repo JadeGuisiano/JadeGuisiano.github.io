@@ -227,3 +227,63 @@ article:has(.jade-page-head) > h1 { display: none !important; }
   .jade-page-connect .jade-wrap, .jade-page-connect .jade-wrap > div { flex-direction: column; align-items: flex-start; }
 }
 </style>
+
+{{- if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "@id": "{{ site.BaseURL }}#profile-page",
+  "url": "{{ site.BaseURL }}",
+  "name": "Jade Eva Guisiano — Research Profile",
+  "description": "Jade Eva Guisiano is a postdoctoral researcher at Tsinghua University working at the intersection of artificial intelligence, Earth observation, climate science and public policy.",
+  "inLanguage": "en",
+  "mainEntity": {
+    "@type": "Person",
+    "@id": "{{ site.BaseURL }}#jade-eva-guisiano",
+    "name": "Jade Eva Guisiano",
+    "givenName": "Jade Eva",
+    "familyName": "Guisiano",
+    "honorificSuffix": "PhD",
+    "url": "{{ site.BaseURL }}",
+    "image": "{{ site.BaseURL }}images/jade-guisiano.jpg",
+    "jobTitle": "Postdoctoral Researcher",
+    "description": "Postdoctoral researcher developing artificial intelligence systems for climate scenario assessment, public policy and greenhouse gas intelligence from Earth observation.",
+    "affiliation": [
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "Tsinghua University",
+        "url": "https://www.tsinghua.edu.cn/en/"
+      },
+      {
+        "@type": "Organization",
+        "name": "United Nations Environment Programme",
+        "url": "https://www.unep.org/"
+      },
+      {
+        "@type": "Organization",
+        "name": "Climate Change AI",
+        "url": "https://www.climatechange.ai/"
+      }
+    ],
+    "alumniOf": {
+      "@type": "CollegeOrUniversity",
+      "name": "Sorbonne University",
+      "url": "https://www.sorbonne-universite.fr/en"
+    },
+    "knowsAbout": [
+      "Artificial intelligence for climate governance",
+      "Earth observation",
+      "Remote sensing",
+      "Methane emissions intelligence",
+      "Climate scenario assessment",
+      "Computer vision for environmental monitoring"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/jade-eva-guisiano-ph-d-047054211/",
+      "https://scholar.google.com/citations?user=UmM76BsAAAAJ"
+    ]
+  }
+}
+</script>
+{{- end }}
