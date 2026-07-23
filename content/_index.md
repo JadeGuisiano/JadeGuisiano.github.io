@@ -32,7 +32,7 @@ sections:
             </div>
             <div class="jade-bio">
               <p>I am a postdoctoral researcher at the Institute of Energy, Environment and Economy, within Tsinghua University's Institute of Nuclear and New Energy Technology, supported by the Shuimu Tsinghua Scholarship. I develop AI methods that connect satellite observations, mathematical modelling and policy analysis.</p>
-              <p>Previously, I worked as a consultant with the United Nations Environment Programme on methane and climate intelligence. I earned a PhD in Mathematics and Computer Science from Sorbonne University, with research conducted at the Centre for Applied Mathematics, École Polytechnique, and ISEP.</p>
+              <p>Previously, I worked as a consultant with the United Nations Environment Programme on methane and climate intelligence. I earned a PhD in Mathematics and Computer Science from Sorbonne University, with research conducted at the Centre for Applied Mathematics, École Polytechnique, and the Institut Supérieur d'Électronique de Paris (ISEP).</p>
             </div>
           </div>
         </section>
