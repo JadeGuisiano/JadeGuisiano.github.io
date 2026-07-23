@@ -42,6 +42,19 @@ title: Talks
         <p>Invited panelist at <em>Strengthening Samoa's Financial System to Enhance Resilience to Climate-Related Risks</em></p>
       </article>
     </div>
+    <h2 class="jade-list-heading jade-space-top">2025</h2>
+    <div class="jade-talk-list">
+      <article>
+        <span>Nankai University, College of Software · September 26, 2025</span>
+        <h3>From Satellite Imagery to Climate Policy: AI-Driven Methane Emissions Governance</h3>
+        <p>Invited lecture, Academic Lecture Series · Tianjin, China</p>
+      </article>
+      <article>
+        <span>Tsinghua University, INET · June 12, 2025</span>
+        <h3>Building AI-Based Methane Emissions Inventories</h3>
+        <p>Invited seminar, AI Empowerment+ Salon · Beijing, China</p>
+      </article>
+    </div>
     <h2 class="jade-list-heading jade-space-top">Invited talk</h2>
     <article class="jade-talk jade-talk-featured">
       <span>Royal Meteorological Society · March 6, 2024</span>
