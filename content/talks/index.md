@@ -5,8 +5,8 @@ title: Talks
 <section class="jade-page-head">
   <div class="jade-wrap jade-page-head-inner">
     <div class="jade-mini">Talks</div>
-    <h1 class="jade-section-title">Ideas shared across science, policy and practice.</h1>
-    <p class="jade-section-lead">Selected invited talks and scientific presentations on machine learning, Earth observation and methane mitigation.</p>
+    <h1 class="jade-section-title">Talks on AI for climate science and public policy.</h1>
+    <p class="jade-section-lead">Invited talks and conference presentations on PolicyXAI, climate scenario assessment, Earth observation and methane emissions.</p>
   </div>
 </section>
 
