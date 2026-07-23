@@ -31,8 +31,8 @@ sections:
               <h2 class="jade-section-title">Research designed to move from evidence to action.</h2>
             </div>
             <div class="jade-bio">
-              <p>I am a postdoctoral researcher at the Institute of Energy, Environment and Economy at Tsinghua University, supported by the Shuimu Tsinghua Scholarship. I develop AI methods that connect satellite observations, mathematical modelling and policy analysis.</p>
-              <p>Previously, I worked as a consultant with the United Nations Environment Programme on methane and climate intelligence. I earned a PhD in Mathematics and Computer Science from École Polytechnique and ISEP.</p>
+              <p>I am a postdoctoral researcher at the Institute of Energy, Environment and Economy, within Tsinghua University's Institute of Nuclear and New Energy Technology, supported by the Shuimu Tsinghua Scholarship. I develop AI methods that connect satellite observations, mathematical modelling and policy analysis.</p>
+              <p>Previously, I worked as a consultant with the United Nations Environment Programme on methane and climate intelligence. I earned a PhD in Mathematics and Computer Science from Sorbonne University, with research conducted at the Centre for Applied Mathematics, École Polytechnique, and ISEP.</p>
             </div>
           </div>
         </section>
@@ -69,9 +69,9 @@ sections:
               <h2 class="jade-section-title">Academic depth, institutional perspective.</h2>
             </div>
             <div class="jade-list">
-              <div class="jade-list-item"><span>Current</span><div><strong>Tsinghua University</strong><p>Postdoctoral Researcher, Institute of Energy, Environment and Economy</p></div></div>
-              <div class="jade-list-item"><span>Previous</span><div><strong>UN Environment Programme</strong><p>Consultant, Climate &amp; Energy Branch</p></div></div>
-              <div class="jade-list-item"><span>Doctorate</span><div><strong>École Polytechnique &amp; ISEP</strong><p>PhD in Mathematics and Computer Science</p></div></div>
+              <div class="jade-list-item"><span>Current</span><div><strong>Tsinghua University</strong><p>Postdoctoral Researcher, Institute of Energy, Environment and Economy<br/>Institute of Nuclear and New Energy Technology</p></div></div>
+              <div class="jade-list-item"><span>Previous</span><div><strong>UN Environment Programme</strong><p>Consultant, Climate &amp; Energy Branch<br/>Consultant in Innovative Technology</p></div></div>
+              <div class="jade-list-item"><span>Doctorate</span><div><strong>Sorbonne University</strong><p>PhD in Mathematics and Computer Science<br/>Research laboratories: Centre for Applied Mathematics, École Polytechnique &amp; Institut Supérieur d'Électronique de Paris (ISEP)</p></div></div>
             </div>
           </div>
         </section>
